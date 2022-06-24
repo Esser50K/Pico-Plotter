@@ -4,7 +4,7 @@
 
 ## Description
 
-Main purpose of this project was to practice Python programing, design something cool and understand basics of how CNC machines, Gcode senders etc. works. This project is probably a great starting point to learn about basics of any CNC machine, as it is very simple and code is very minimal. 3D printed parts are optimized for support less printing (most of them but not all) and can be printed out of PLA. 
+Main purpose of this project was to practice Python programming, design something cool and understand basics of how CNC machines, Gcode senders etc. works. This project is probably a great starting point to learn about basics of any CNC machine, as it is very simple and code is very minimal. 3D printed parts are optimized for support less printing (most of them but not all) and can be printed out of PLA. 
 ## Parts
 #### Electronics
 | Name                  | Amount | Link 1                                           | Link 2                                           | Link 3                                             |
